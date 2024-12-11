@@ -1,0 +1,109 @@
+Reporte de Inventario
+=======================
+ID: ID001
+Nombre: Tomate
+Categoría: Verduras
+Precio: $100.5
+Cantidad: 10
+Valor Total del Producto: $1005.0
+-----------------------
+ID: ID002
+Nombre: Pepino
+Categoría: Verduras
+Precio: $150.0
+Cantidad: 20
+Valor Total del Producto: $3000.0
+-----------------------
+ID: ID003
+Nombre: Acelga
+Categoría: Verduras
+Precio: $200.0
+Cantidad: 5
+Valor Total del Producto: $1000.0
+-----------------------
+ID: ID004
+Nombre: Espinaca
+Categoría: Verduras
+Precio: $100.5
+Cantidad: 10
+Valor Total del Producto: $1005.0
+-----------------------
+ID: ID005
+Nombre: Huevo
+Categoría: Proteinas
+Precio: $150.0
+Cantidad: 20
+Valor Total del Producto: $3000.0
+-----------------------
+ID: ID006
+Nombre: Pescado
+Categoría: Proteinas
+Precio: $200.0
+Cantidad: 5
+Valor Total del Producto: $1000.0
+-----------------------
+ID: ID007
+Nombre: Carne
+Categoría: Proteinas
+Precio: $100.5
+Cantidad: 10
+Valor Total del Producto: $1005.0
+-----------------------
+ID: ID008
+Nombre: Queso
+Categoría: Lacteos
+Precio: $150.0
+Cantidad: 20
+Valor Total del Producto: $3000.0
+-----------------------
+ID: ID009
+Nombre: Leche
+Categoría: Lacteos
+Precio: $200.0
+Cantidad: 5
+Valor Total del Producto: $1000.0
+-----------------------
+ID: ID010
+Nombre: Mantequilla
+Categoría: Lacteos
+Precio: $100.5
+Cantidad: 10
+Valor Total del Producto: $1005.0
+-----------------------
+ID: ID011
+Nombre: Trigo
+Categoría: Cereal
+Precio: $150.0
+Cantidad: 20
+Valor Total del Producto: $3000.0
+-----------------------
+ID: ID012
+Nombre: Maiz
+Categoría: Cereal
+Precio: $200.0
+Cantidad: 5
+Valor Total del Producto: $1000.0
+-----------------------
+ID: ID013
+Nombre: Avena
+Categoría: Cereal
+Precio: $100.5
+Cantidad: 10
+Valor Total del Producto: $1005.0
+-----------------------
+ID: ID014
+Nombre: Nuez
+Categoría: Semillas
+Precio: $150.0
+Cantidad: 20
+Valor Total del Producto: $3000.0
+-----------------------
+ID: ID015
+Nombre: Quinoa
+Categoría: Semillas
+Precio: $200.0
+Cantidad: 5
+Valor Total del Producto: $1000.0
+-----------------------
+
+Valor Total del Inventario: $25025.0

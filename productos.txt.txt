@@ -1,0 +1,15 @@
+ID001, Tomate, Verduras, 100.5, 10
+ID002, Pepino, Verduras, 150.0, 20
+ID003, Acelga, Verduras, 200.0, 5
+ID004, Espinaca, Verduras, 100.5, 10
+ID005, Huevo, Proteinas, 150.0, 20
+ID006, Pescado, Proteinas, 200.0, 5
+ID007, Carne, Proteinas, 100.5, 10
+ID008, Queso, Lacteos, 150.0, 20
+ID009, Leche, Lacteos, 200.0, 5
+ID010, Mantequilla, Lacteos, 100.5, 10
+ID011, Trigo, Cereal, 150.0, 20
+ID012, Maiz, Cereal, 200.0, 5
+ID013, Avena, Cereal, 100.5, 10
+ID014, Nuez, Semillas, 150.0, 20
+ID015, Quinoa, Semillas, 200.0, 5
